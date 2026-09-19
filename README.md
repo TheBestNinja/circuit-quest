@@ -6,6 +6,12 @@ Solve math-fact challenges to punch through firewalls, equip gadgets and chassis
 
 > Original game — not a copy of Math Quest / Room Recess.
 
+## Play online
+
+**Live:** https://thebestninja.github.io/circuit-quest/
+
+(GitHub Pages, served from the `gh-pages` branch.)
+
 ## Quick start
 
 ```bash
